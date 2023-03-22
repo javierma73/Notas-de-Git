@@ -1,7 +1,7 @@
 # Notas-de-Git
-Estas son mis notas sobre el trabajo de Git.:wink:
+Estas son mis Notas sobre el trabajo de Git. :wink:
 
-Pero si te sirve de algo genial.
+Pero si te sirve de algo genial.:ok_hand:
 
-Cualquier duda puedes contactarme.
-[Contacto: Aquí](https://moneytoday.es/contacto/)
+Cualquier duda me puedes contactar:
+[Aquí](https://moneytoday.es/contacto/)
